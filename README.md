@@ -1,5 +1,6 @@
-# ranminalza_plus 
-[this repository](https://github.com/dreamerFall/ranminalza) gonna have so meny updates coming <br>
+#  
+[this original repository](https://github.com/dreamerFall/ranminalza) gonna have so meny updates coming <br>
+and i renamed it to __ranminalza_plus__
 ## v1.0.0
 __cleaner code unlike the original__
 <br>
@@ -11,3 +12,6 @@ __graphical ui__ (in 2.0.0) <br>
 __color texts__ <br>
 __sound effects__ <br>
 __and more..__
+
+#
+wait for it
