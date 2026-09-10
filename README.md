@@ -7,6 +7,7 @@ __better interface__
 ## what would i might add in next update
 might have __more words__ <br>
 __cleaner code__ <br>
-__graphical ui__ (2.0.0) <br>
-__color texts__ (in terminal)<br>
+__graphical ui__ (in 2.0.0) <br>
+__color texts__ <br>
 __sound effects__ <br>
+__and more..__
