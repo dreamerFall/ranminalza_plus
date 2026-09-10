@@ -1,2 +1,2 @@
-# ranminalza_plus
-word guessing game (updated 
+# ranminalza_plus 
+[this repository](https://github.com/dreamerFall/ranminalza)
