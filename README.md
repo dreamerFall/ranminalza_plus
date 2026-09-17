@@ -1,5 +1,5 @@
 #  
-[this original repository](https://github.com/dreamerFall/ranminalza) gonna have so meny updates coming <br>
+[this original repository](https://github.com/dreamerFall/ranminalza)(the older version) gonna have so meny updates coming <br>
 and i renamed it to __ranminalza_plus__
 ## v1.0.0
 __cleaner code unlike the original (the original ranminalza repository)__
